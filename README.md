@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Design and styles are as simple as possible. For interaction with the server I used REST, because of greater confidence in the technology
+
 ## Available Scripts
 
 In the project directory, you can run:
